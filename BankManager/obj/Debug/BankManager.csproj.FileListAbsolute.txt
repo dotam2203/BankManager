@@ -1,0 +1,844 @@
+D:\BankManager\BankManager\obj\Debug\BankManager.csproj.AssemblyReference.cache
+D:\BankManager\BankManager\obj\Debug\BankManager.frmDSKhachHang.resources
+D:\BankManager\BankManager\obj\Debug\BankManager.frmKhachHang.resources
+D:\BankManager\BankManager\obj\Debug\BankManager.frmChuyenTien.resources
+D:\BankManager\BankManager\obj\Debug\BankManager.frmDangKy.resources
+D:\BankManager\BankManager\obj\Debug\BankManager.frmDangNhap.resources
+D:\BankManager\BankManager\obj\Debug\BankManager.frmGuiRut.resources
+D:\BankManager\BankManager\obj\Debug\BankManager.frmMain.resources
+D:\BankManager\BankManager\obj\Debug\BankManager.frmNhanVien.resources
+D:\BankManager\BankManager\obj\Debug\BankManager.Properties.Resources.resources
+D:\BankManager\BankManager\obj\Debug\BankManager.csproj.GenerateResource.cache
+D:\BankManager\BankManager\obj\Debug\BankManager.exe.licenses
+D:\BankManager\BankManager\obj\Debug\BankManager.csproj.CoreCompileInputs.cache
+D:\BankManager\BankManager\bin\Debug\BankManager.exe.config
+D:\BankManager\BankManager\bin\Debug\BankManager.exe
+D:\BankManager\BankManager\bin\Debug\BankManager.pdb
+D:\BankManager\BankManager\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.Data.v21.2.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\BankManager\BankManager\bin\Debug\DevExpress.Data.v21.2.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\BankManager\BankManager\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\BankManager\BankManager\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\BankManager\BankManager\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\BankManager\BankManager\obj\Debug\BankManager.csproj.CopyComplete
+D:\BankManager\BankManager\obj\Debug\BankManager.exe
+D:\BankManager\BankManager\obj\Debug\BankManager.pdb
+D:\BankManager\BankManager\obj\Debug\BankManager.frmDSTaiKhoan.resources
+D:\BankManager\BankManager\obj\Debug\BankManager.frmSaoKeGD.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\BankManager.exe.config
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\BankManager.exe
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\BankManager.pdb
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.csproj.AssemblyReference.cache
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmDSTaiKhoan.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmSaoKeGD.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmTaoTaiKhoan.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmKhachHang.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmChuyenTien.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmDangKy.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmDangNhap.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmGuiRut.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmMain.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmNhanVien.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.Properties.Resources.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.csproj.GenerateResource.cache
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.exe.licenses
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.csproj.CoreCompileInputs.cache
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.csproj.CopyComplete
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.exe
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.pdb
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.csproj.AssemblyReference.cache
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.frmDSKhachHang.resources
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.frmDSTaiKhoan.resources
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.frmSaoKeGD.resources
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.frmTaoTaiKhoan.resources
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.frmKhachHang.resources
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.frmChuyenTien.resources
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.frmDangKy.resources
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.frmDangNhap.resources
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.frmGuiRut.resources
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.frmMain.resources
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.frmNhanVien.resources
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.Properties.Resources.resources
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.csproj.GenerateResource.cache
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.exe.licenses
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.csproj.CoreCompileInputs.cache
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.exe
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.pdb
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\BankManager.exe.config
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\BankManager.exe
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\BankManager.pdb
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Data.v21.2.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Xpo.v21.2.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.XtraBars.v21.2.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Office.v21.2.Core.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Data.v21.2.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Xpo.v21.2.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.XtraBars.v21.2.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\DevExpress.Office.v21.2.Core.xml
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+E:\C#\BankManager_17_11_2021\BankManager\obj\Debug\BankManager.csproj.CopyComplete
+D:\BankManager\BankManager\obj\Debug\BankManager.frmTaoTaiKhoan.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\BankManager.exe.config
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\BankManager.exe
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\BankManager.pdb
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraReports.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraReports.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.csproj.AssemblyReference.cache
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmDSKhachHang.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmDSTaiKhoan.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmSaoKeGD.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmTaoTaiKhoan.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmKhachHang.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmChuyenTien.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmDangKy.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmDangNhap.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmGuiRut.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmMain.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmNhanVien.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.Properties.Resources.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.csproj.GenerateResource.cache
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.exe.licenses
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.csproj.CoreCompileInputs.cache
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.csproj.CopyComplete
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.exe
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.pdb
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.ReportDSTK.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.sp_BaoCaoDSKHcs.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.SP_SaoKe_CN.resources
+C:\Users\tathu\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmDSKH.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\BankManager.exe.config
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\BankManager.exe
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\BankManager.pdb
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraReports.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraReports.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.csproj.AssemblyReference.cache
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.frmDSTaiKhoan.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.frmSaoKeGD.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.frmDSKH.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.frmTaoTaiKhoan.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.frmKhachHang.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.frmChuyenTien.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.frmDangKy.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.frmDangNhap.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.frmGuiRut.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.frmMain.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.frmNhanVien.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.Properties.Resources.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.ReportDSTK.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.sp_BaoCaoDSKHcs.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.SP_SaoKe_CN.resources
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.csproj.GenerateResource.cache
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.exe.licenses
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.csproj.CoreCompileInputs.cache
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.csproj.CopyComplete
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.exe
+C:\Users\DoTam\OneDrive\Máy tính\BANK\BankManager\BankManager\obj\Debug\BankManager.pdb
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraReports.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraReports.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.frmDSKH.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.ReportDSTK.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.sp_BaoCaoDSKHcs.resources
+C:\Users\DoTam\OneDrive\Máy tính\BankManager\BankManager\obj\Debug\BankManager.SP_SaoKe_CN.resources
